@@ -1,0 +1,23 @@
+<svg
+  id="Group_52"
+  data-name="Group 52"
+  xmlns="http://www.w3.org/2000/svg"
+  width="15"
+  height="15"
+  viewBox="0 0 20.543 27.702"
+>
+  <path
+    id="Op_component_4"
+    data-name="Op component 4"
+    d="M0,0H16.808a0,0,0,0,1,0,0V18.543a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z"
+    transform="translate(1.868 7.159)"
+    fill="#fd6e38"
+  />
+  <path
+    id="Op_component_5"
+    data-name="Op component 5"
+    d="M564.543,1489.424a1.717,1.717,0,0,1-1.712,1.712H545.712a1.712,1.712,0,0,1,0-3.424h3.424l1.216-1.216a1.728,1.728,0,0,1,1.2-.5h5.444a1.727,1.727,0,0,1,1.2.5l1.215,1.216h3.424A1.717,1.717,0,0,1,564.543,1489.424Z"
+    transform="translate(-544 -1486)"
+    fill="#fd6e38"
+  />
+</svg>
